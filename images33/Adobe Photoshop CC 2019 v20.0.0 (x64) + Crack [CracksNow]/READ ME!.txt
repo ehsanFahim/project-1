@@ -1,0 +1,12 @@
+Instructions :-
+- Disable internet connection.
+- Launch Setup.
+- Choose install location and language and install.
+- You will get a warning at the end of the installation saying Unable to launch the app automatically. Click "Quit" to that error. Install will be done perfectly now.
+- Copy and replace patched file to program directory. Confirm replacing.
+- Block in firewall or use offline, open PS, click "esc" button on your keyboard and will be loaded perfectly.
+
+
+****************************
+
+****************************
